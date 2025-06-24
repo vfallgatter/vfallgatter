@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/vitorfallgatter/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:vitorhugofallgatter@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
 </p>
 
 ---
@@ -19,7 +16,7 @@ I also have solid knowledge of databases and enjoy building complete, user-focus
 
 ---
 
-### 💼 Stacks
+### 🔧 Stacks
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -34,7 +31,7 @@ I also have solid knowledge of databases and enjoy building complete, user-focus
 
 ---
 
-### 📫 Contact me!
+### ✉️ Contact me!
 
 - [LinkedIn](https://www.linkedin.com/in/vitorfallgatter/)
 - Email: vitorhugofallgatter@gmail.com
